@@ -1,0 +1,8 @@
+NAME=fluidsynth
+VERSION=1.1.10
+REVISION=1
+LICENSE=LGPL-2.1-only
+SRC=https://github.com/FluidSynth/fluidsynth/archive/v1.1.10.tar.gz
+SRCMD5=df0bc67f4d8fa8b75b5b005091be957b
+BUILDDEPS=cmake glib2
+INSTALLDEPS=glib2
